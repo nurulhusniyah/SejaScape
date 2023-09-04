@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: 09aa4adfb694e454f980c8c299d74548
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/AR Topik.unity
+    guid: 7751cb3dae18e654e8e18545f4b52667
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QUIZ.unity
+    guid: 856fa83f517600b4a8d6895d13223360
+  - enabled: 1
+    path: Assets/Scenes/Quiz/StartQuiz 1.unity
+    guid: e670116ca854bf04aa57f6ea8d9fedc7
+  - enabled: 1
+    path: Assets/Scenes/Quiz/StartQuiz 3.unity
+    guid: 9db506de281239c4bb6617aca5929fc7
+  - enabled: 1
+    path: Assets/Scenes/Quiz/StartQuiz 2.unity
+    guid: a179ba3d03dca3640964e7032e943aa1
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz 1.unity
+    guid: ac902ed3660257d47b344fe0414d187c
+  - enabled: 1
+    path: Assets/Scenes/Quiz/Quiz 2.unity
+    guid: 2a4adf2254f7df74996d5e4d012c60c2
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizRom.unity
+    guid: 089a128ec59c9c74d9117aa896ee0457
+  - enabled: 1
+    path: Assets/Scenes/VIDEO/Video.unity
+    guid: a11412d48723b1343b12b64fb4042fcd
+  - enabled: 1
+    path: Assets/Scenes/VIDEO/Vid SumberSej.unity
+    guid: 6dab9e7972bff9d4fb1e846e0ebc1df5
+  - enabled: 1
+    path: Assets/Scenes/VIDEO/Full Vid1.unity
+    guid: 01f766be089988d4282fbdd6d3a36224
+  - enabled: 1
+    path: Assets/Scenes/VIDEO/Full Vid2.unity
+    guid: 251b37bd4fd0b784b8f3db4b3a8cbb66
+  - enabled: 1
+    path: Assets/Scenes/VIDEO/Video bab2.unity
+    guid: d9d814bda3505fd479f3fa6229ae2ce9
+  - enabled: 1
+    path: Assets/Scenes/VIDEO/Full Vid3.unity
+    guid: d82103065c93336469e9bc46afa4b7eb
+  - enabled: 1
+    path: Assets/Scenes/VIDEO/Video bab5.unity
+    guid: 2710d97928f449c409aac915472e1fa7
+  - enabled: 1
+    path: Assets/Scenes/Game/PlayGame.unity
+    guid: 0a11287bff81d554fba3c26b6ebdbb70
+  - enabled: 1
+    path: Assets/Scenes/Wolly.unity
+    guid: 520126e2a5b76234abba3828d824e477
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: c901f4bd5d6376b45b99edc61beb6b9c
+  - enabled: 1
+    path: Assets/Scenes/Kaabah.unity
+    guid: 6e793231ae0b74f4396150ca31cf42f7
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 1b1a2d27407abff438f829c8c9bf93aa
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 0fb87b5aee0d8a942acd5089abaa16c8,
+      type: 2}

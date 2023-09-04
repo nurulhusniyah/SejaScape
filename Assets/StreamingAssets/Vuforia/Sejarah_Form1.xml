@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MARKER4_MasjidilHaram" size="1.000000 1.337838" />
+    <ImageTarget name="MARKER3_MasjidilHaram" size="1.000000 1.337838" />
+    <ImageTarget name="MARKER2_Earth" size="1.000000 1.337838" />
+    <ImageTarget name="MARKER1_Wolly_Mammoth" size="1.000000 1.346847" />
+  </Tracking>
+</QCARConfig>

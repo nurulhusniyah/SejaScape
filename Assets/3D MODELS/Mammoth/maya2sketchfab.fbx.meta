@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: c725bdf871c7e7d44ad63684dbe9b098
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_Mat
+    second: {fileID: 2100000, guid: fbc57b166daa50748a0d2ba6dd2d347e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Mat
+    second: {fileID: 2100000, guid: 4bb816ba66aee3a49b2294ae575784f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MammothBody_Mat
+    second: {fileID: 2100000, guid: 2ab7941ed1ab00145b183c02aa69f0e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MammothEye_Mat
+    second: {fileID: 2100000, guid: 8cb2d5cb0cd227440a9ec7457b73a039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MammothFur_Mat
+    second: {fileID: 2100000, guid: 01626e66ab34aae4ebbdd71144954924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant_stalk_Mat
+    second: {fileID: 2100000, guid: 2b4cb1bcd87ef54479b34401b7f9b40b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock_Mat
+    second: {fileID: 2100000, guid: e92af90fc3937844fad9ceeaf0df992f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envi_Mammoth_diffuse
+    second: {fileID: 2800000, guid: 1a79a7bbddda09f4f9c480ca7a1a7e59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envi_Mammoth_normal
+    second: {fileID: 2800000, guid: ea859fc13ad516b499c486894573be6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envi_Mammoth_opacity
+    second: {fileID: 2800000, guid: 24ba6e26f7d7f4a41ad4725e126872bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Envi_Mammoth_specular
+    second: {fileID: 2800000, guid: d2caa0564d4924042b33570302cf3a1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mammoths_diffuse
+    second: {fileID: 2800000, guid: 789b5f15cbdf9744786f000f3b83e9f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mammoths_opacity
+    second: {fileID: 2800000, guid: 846b6fd7a2b62b24b8864dfddba8d1e1, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftLowerLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: maya2sketchfab(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Envi_Mammoth
+      parentName: maya2sketchfab(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ground
+      parentName: Envi_Mammoth
+      position: {x: -0, y: 0.22348738, z: 0.00010015132}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plant_stalk
+      parentName: Envi_Mammoth
+      position: {x: -0.63082945, y: 0.15425083, z: -2.5049748}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rock
+      parentName: Envi_Mammoth
+      position: {x: -7.9277015, y: -0.017214336, z: 0.32499865}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Grass
+      parentName: Envi_Mammoth
+      position: {x: -0.194635, y: 0.55524755, z: -0.0990039}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: maya2sketchfab(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ambientLight1
+      parentName: Light
+      position: {x: -0, y: 8.047867, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 323.42178, y: 323.42178, z: 323.42178}
+    - name: directionalLight1
+      parentName: Light
+      position: {x: -1.4768002, y: 8.066079, z: -0.108483665}
+      rotation: {x: 0.5338802, y: -0.012374938, z: 0.541009, w: 0.6497139}
+      scale: {x: 85.60301, y: 85.60301, z: 85.60301}
+    - name: directionalLight2
+      parentName: Light
+      position: {x: 2.4008353, y: 5.9082975, z: -7.8316307}
+      rotation: {x: 0.11065376, y: 0.34702742, z: -0.9303893, w: 0.041272927}
+      scale: {x: 133.86874, y: 133.86874, z: 133.86874}
+    - name: directionalLight3
+      parentName: Light
+      position: {x: -3.4901962, y: 4.9597406, z: 9.533247}
+      rotation: {x: 0.95639104, y: 0.04690065, z: 0.22071087, w: 0.18548109}
+      scale: {x: 179.40865, y: 179.40865, z: 179.40865}
+    - name: Mammoth1
+      parentName: maya2sketchfab(Clone)
+      position: {x: -0, y: -0.01, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.7808317, y: 1.7808317, z: 1.7808317}
+    - name: MammothBody
+      parentName: Mammoth1
+      position: {x: 0.0028515623, y: 2.4659395, z: 1.5966278}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MammothFur
+      parentName: Mammoth1
+      position: {x: -0.026985358, y: 4.6870627, z: 2.4021964}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MammothEye_grp
+      parentName: Mammoth1
+      position: {x: -0.0001356697, y: 3.6647353, z: 2.9878259}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MammothEyeL
+      parentName: MammothEye_grp
+      position: {x: -0.4388727, y: 0, z: -0.00007217407}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MammothEyeR
+      parentName: MammothEye_grp
+      position: {x: 0.43900838, y: 0.000047149657, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
