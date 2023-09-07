@@ -25,7 +25,14 @@ This AR-based learning app for "Sejarah Tingkatan 1" not only simplifies histori
 
 In summary, our project is at the forefront of leveraging technology to transform history education. It offers an immersive learning experience that goes beyond traditional textbooks, making history come alive for Form 1 students.
 
-Below is the final product result:
+Below are some of the final product results:
+
+![Image Alt Text](Assets/Materials/scene2.png)
+
+![Image Alt Text](Assets/Materials/scene3.png)
+
+![Image Alt Text](Assets/Materials/scene1.png)
+
 
 
 
